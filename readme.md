@@ -145,4 +145,4 @@ Este ejercicio está terminado cuando:
 - el programa compila y ejecuta correctamente,
 - comprendes las ventajas y limitaciones del patrón.
 
-- [ ] He completado el ejercicio de Singleton en Java y puedo explicar el resultado final.
+- [x] He completado el ejercicio de Singleton en Java y puedo explicar el resultado final.
