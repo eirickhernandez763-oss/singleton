@@ -133,7 +133,7 @@ Responde estas preguntas en tu cuaderno o en tu entrega:
 
 **Actividad:** anota tus respuestas y prepárate para discutirlas en clase.
 
-- [ ] Respondí las preguntas de análisis y entendí el impacto del patrón Singleton.
+- [x] Respondí las preguntas de análisis y entendí el impacto del patrón Singleton.
 
 ## 6. Criterio de finalización
 
