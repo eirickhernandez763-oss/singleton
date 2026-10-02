@@ -1,0 +1,4 @@
+New AppConfig instance created!
+Theme: Dark, Language: EN
+Theme: Dark, Language: EN
+Are these the same instance? true
